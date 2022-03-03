@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm FlyEgle, working on [JOYY](https://github.com/joyycom)
+![FlyEgle's github stats](https://github-readme-stats.vercel.app/api?username=FlyEgle&show_icons=true&theme=tokyonight)

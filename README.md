@@ -15,6 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm FlyEgle, working on [JOYY](https://github.com/joyycom)
+I'm FlyEgle, working on [JOYY](https://github.com/joyycom).
 
 ![FlyEgle's github stats](https://github-readme-stats.vercel.app/api?username=FlyEgle&show_icons=true&theme=tokyonight)
+
+I am an AI algorithm engineer, specializing in OCR, semantic segmentation, object detection, and image-video understanding.
+
+📫 Welcome anyone to communicate with me!
+
